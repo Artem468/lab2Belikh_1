@@ -1,4 +1,6 @@
-﻿Console.Write("Введите x: ");
+// Высокий уровень 15 задача
+
+Console.Write("Введите x: ");
 double x = Convert.ToDouble(Console.ReadLine());
 
 Console.Write("Введите y: ");
